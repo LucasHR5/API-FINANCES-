@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prisma": "^5.14.0"
+  }
+}
